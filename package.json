@@ -1,5 +1,5 @@
 {
-  "name": "@ali/topSdk",
+  "name": "topSdk",
   "author":"xuteng.xt@alibaba-inc.com",
   "version": "1.4.0",
   "description": "Taobao Open API & Message Client.",
